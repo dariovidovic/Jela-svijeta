@@ -1,0 +1,301 @@
+{
+    "meals": {
+        "piletina_s_povrcem": {
+            "title": "Chicken with Vegetables",
+            "description": "Chicken with fresh vegetables and your choice of sauce."
+        },
+        "losos_s_bijelim_grahom": {
+            "title": "Salmon with White Beans",
+            "description": "Bake salmon with white beans and butter."
+        },
+        "pica_s_sunkom_i_gljivama": {
+            "title": "Ham and Mushroom Pizza",
+            "description": "Classic pizza with ham and mushrooms."
+        },
+        "tjestenina_alfredo": {
+            "title": "Pasta Alfredo",
+            "description": "Pasta in a creamy cheese and butter sauce."
+        },
+        "svinjska_rebra_s_bbq_umakom": {
+            "title": "BBQ Pork Ribs",
+            "description": "Pork ribs roasted with aromatic BBQ sauce."
+        },
+        "grcka_salata": {
+            "title": "Greek Salad",
+            "description": "Fresh Greek salad with cucumbers, tomatoes, and feta cheese."
+        },
+        "taco_salata": {
+            "title": "Taco Salad",
+            "description": "Healthy and tasty taco salad with crispy nacho chips."
+        },
+        "tikka_masala_s_piletinom": {
+            "title": "Chicken Tikka Masala",
+            "description": "Indian chicken tikka masala with tender chicken pieces."
+        },
+        "quinoa_salata": {
+            "title": "Quinoa Salad",
+            "description": "Nutritious quinoa salad with vegetables and lemon dressing."
+        },
+        "palacinke_s_javorovim_sirupom": {
+            "title": "Pancakes with Maple Syrup",
+            "description": "Fluffy pancakes drizzled with maple syrup."
+        },
+        "tofu_stir-fry": {
+            "title": "Tofu Stir-Fry",
+            "description": "Quick tofu stir-fry with vegetables and soy sauce."
+        },
+        "lignje_na_zaru": {
+            "title": "Grilled Calamari",
+            "description": "Calamari grilled with olive oil."
+        },
+        "tjestenina_s_pestom": {
+            "title": "Pasta with Pesto",
+            "description": "Pasta with aromatic basil pesto and pine nuts."
+        },
+        "kineska_juha_s_piletinom": {
+            "title": "Chinese Chicken Soup",
+            "description": "Classic Chinese chicken soup with chicken and vegetables."
+        },
+        "pasta_carbonara_s_pancetom": {
+            "title": "Pasta Carbonara with Pancetta",
+            "description": "Carbonara pasta with crispy pancetta and eggs."
+        },
+        "turski_kebabi": {
+            "title": "Turkish Kebabs",
+            "description": "Juicy Turkish kebabs with a spicy sauce."
+        },
+        "riblji_tacosi": {
+            "title": "Fish Tacos",
+            "description": "Tacos with fish fillets and fresh vegetables."
+        },
+        "pileci_curry": {
+            "title": "Chicken Curry",
+            "description": "Aromatic chicken curry with rice."
+        },
+        "vegetarijanski_burgeri": {
+            "title": "Vegetarian Burgers",
+            "description": "Crispy vegetarian burgers with avocado sauce."
+        },
+        "cezar_salata": {
+            "title": "Caesar Salad",
+            "description": "Classic Caesar salad with croutons and Parmesan cheese."
+        }
+    },
+    
+    "categories": {
+        "jela_od_piletine": {
+            "title": "Chicken Dishes",
+            "slug": "slug-chicken-dishes"
+        },
+        "morski_specijaliteti": {
+            "title": "Seafood Delights",
+            "slug": "slug-seafood-delights"
+        },
+        "omiljeni_talijanski_recepti": {
+            "title": "Italian Favorites",
+            "slug": "slug-italian-favorites"
+        },
+        "posebni_rostilj_specijaliteti": {
+            "title": "Barbecue Specials",
+            "slug": "slug-barbecue-specials"
+        },
+        "svjeze_salate": {
+            "title": "Fresh Salads",
+            "slug": "slug-fresh-salads"
+        }
+    },
+
+    "tags": {
+        "jelo_za_udobnost": {
+          "title": "Comfort Food",
+          "slug": "slug-comfort-food"
+        },
+        "brzo_i_jednostavno": {
+          "title": "Quick & Easy",
+          "slug": "slug-quick-easy"
+        },
+        "egzoticni_okusi": {
+          "title": "Exotic Flavors",
+          "slug": "slug-exotic-flavors"
+        },
+        "pikantne_kreacije": {
+          "title": "Spicy Creations",
+          "slug": "slug-spicy-creations"
+        },
+        "omiljeni_obroci_za_obitelj": {
+          "title": "Family Favorites",
+          "slug": "slug-family-favorites"
+        }
+      },
+      "ingredients": {
+    "piletina": {
+      "ingredient": "Chicken",
+      "slug": "slug-chicken"
+    },
+    "povrce": {
+      "ingredient": "Vegetables",
+      "slug": "slug-vegetables"
+    },
+    "losos": {
+      "ingredient": "Salmon",
+      "slug": "slug-salmon"
+    },
+    "bijeli_grah": {
+      "ingredient": "White Beans",
+      "slug": "slug-white-beans"
+    },
+    "sunka": {
+      "ingredient": "Ham",
+      "slug": "slug-ham"
+    },
+    "gljive": {
+      "ingredient": "Mushrooms",
+      "slug": "slug-mushrooms"
+    },
+    "sir": {
+      "ingredient": "Cheese",
+      "slug": "slug-cheese"
+    },
+    "maslac": {
+      "ingredient": "Butter",
+      "slug": "slug-butter"
+    },
+    "tjestenina": {
+      "ingredient": "Pasta",
+      "slug": "slug-pasta"
+    },
+    "vrhnje": {
+      "ingredient": "Cream",
+      "slug": "slug-cream"
+    },
+    "svinjske_rebra": {
+      "ingredient": "Pork Ribs",
+      "slug": "slug-pork-ribs"
+    },
+    "bbq_umak": {
+      "ingredient": "BBQ Sauce",
+      "slug": "slug-bbq-sauce"
+    },
+    "krastavac": {
+      "ingredient": "Cucumber",
+      "slug": "slug-cucumber"
+    },
+    "rajcica": {
+      "ingredient": "Tomato",
+      "slug": "slug-tomato"
+    },
+    "feta_sir": {
+      "ingredient": "Feta Cheese",
+      "slug": "slug-feta-cheese"
+    },
+    "taco_cips": {
+      "ingredient": "Taco Chips",
+      "slug": "slug-taco-chips"
+    },
+    "indijske_zacine": {
+      "ingredient": "Indian Spices",
+      "slug": "slug-indian-spices"
+    },
+    "kinoa": {
+      "ingredient": "Quinoa",
+      "slug": "slug-quinoa"
+    },
+    "limunski_preljev": {
+      "ingredient": "Lemon Dressing",
+      "slug": "slug-lemon-dressing"
+    },
+    "palacinke": {
+      "ingredient": "Pancakes",
+      "slug": "slug-pancakes"
+    },
+    "javorov_sirup": {
+      "ingredient": "Maple Syrup",
+      "slug": "slug-maple-syrup"
+    },
+    "tofu": {
+      "ingredient": "Tofu",
+      "slug": "slug-tofu"
+    },
+    "soja_umak": {
+      "ingredient": "Soy Sauce",
+      "slug": "slug-soy-sauce"
+    },
+    "lignje": {
+      "ingredient": "Calamari",
+      "slug": "slug-calamari"
+    },
+    "maslinovo_ulje": {
+      "ingredient": "Olive Oil",
+      "slug": "slug-olive-oil"
+    },
+    "bazilski_pesto": {
+      "ingredient": "Basil Pesto",
+      "slug": "slug-basil-pesto"
+    },
+    "borovnice": {
+      "ingredient": "Blueberries",
+      "slug": "slug-blueberries"
+    },
+    "pileca_juha": {
+      "ingredient": "Chicken Broth",
+      "slug": "slug-chicken-broth"
+    },
+    "jaja": {
+      "ingredient": "Eggs",
+      "slug": "slug-eggs"
+    },
+    "mljeveno_meso": {
+      "ingredient": "Ground Meat",
+      "slug": "slug-ground-meat"
+    },
+    "zacini": {
+      "ingredient": "Spices",
+      "slug": "slug-spices"
+    },
+    "turski_kruh": {
+      "ingredient": "Turkish Bread",
+      "slug": "slug-turkish-bread"
+    },
+    "riblji_fileti": {
+      "ingredient": "Fish Fillets",
+      "slug": "slug-fish-fillets"
+    },
+    "taco_skoljke": {
+      "ingredient": "Taco Shells",
+      "slug": "slug-taco-shells"
+    },
+    "curry_umak": {
+      "ingredient": "Curry Sauce",
+      "slug": "slug-curry-sauce"
+    },
+    "riza": {
+      "ingredient": "Rice",
+      "slug": "slug-rice"
+    },
+    "povrtni_burger": {
+      "ingredient": "Vegetable Burger",
+      "slug": "slug-vegetable-burger"
+    },
+    "avokado": {
+      "ingredient": "Avocado",
+      "slug": "slug-avocado"
+    },
+    "zelena_salata": {
+      "ingredient": "Green Salad",
+      "slug": "slug-green-salad"
+    },
+    "krutoni": {
+      "ingredient": "Croutons",
+      "slug": "slug-croutons"
+    },
+    "parmezan": {
+      "ingredient": "Parmesan",
+      "slug": "slug-parmesan"
+    }
+  }
+    
+
+
+    
+    
+}
